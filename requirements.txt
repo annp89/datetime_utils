@@ -1,0 +1,7 @@
+pep8
+pyflakes
+pytz==2014.10
+nose
+
+Sphinx==1.2.2
+sphinx_rtd_theme
